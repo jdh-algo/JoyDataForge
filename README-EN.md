@@ -1,3 +1,5 @@
+# [中文](https://github.com/jdh-algo/JoyDataForge/blob/main/README.md "readme-zh")|English
+
 # JOYDATAFORGE: Data Forging Factory
 
 This project aims to provide an open-source toolkit for synthetic data generation tailored for large models. Through various data synthesis methods offered by this toolkit, users can efficiently construct data pipeline processes suited to different business needs, significantly enhancing data production efficiency. After data construction is completed, the toolkit also supports comprehensive evaluations of data diversity from multiple perspectives such as semantics and entities.
@@ -159,15 +161,15 @@ Run the script with:
 python examples/model_votes/model_votes_and_pipline.py
 ```
 
-For more examples, refer to the contents in the `examples/` directory.
+For more examples, refer to the contents in the [examples/ ](https://github.com/jdh-algo/JoyDataForge/tree/main/examples "examples")directory.
 
 ## **Datasets**
 
 We synthesis two datasets by using the [Magpie](https://arxiv.org/abs/2406.08464 "喜鹊") method and [Wizard](https://arxiv.org/abs/2304.12244 "WizardLM") method of [JoyDataForge](https://github.com/jdh-algo/JoyDataForge "数据合成 锻造厂") ，And it has been open-sourced for everyone's reference and use.
 
-    Dataset 1:[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo-huggingface/joy_common_sft_datasets "magpie"), this dataset is distilled using the magpie method on the [Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen) model. It can be used for the **initial** SFT instruction fine-tuning phase of the model.
+Dataset 1:[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo-huggingface/joy_common_sft_datasets "magpie"), this dataset is distilled using the magpie method on the [Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen) model. It can be used for the **initial** SFT instruction fine-tuning phase of the model.
 
-    Dataset 2:[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo-huggingface/query_diversity_evolution "WizardLM"), this dataset uses the wizard method to evolve the query content in the given dataset in terms of depth and breadth over two rounds. We have also scored the difficulty of tasks for the evolved queries to enhance the diversity of queries and the complexity of tasks. This is used for the **later stage** of SFT instruction fine-tuning of the model.
+Dataset 2:[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo-huggingface/query_diversity_evolution "WizardLM"), this dataset uses the wizard method to evolve the query content in the given dataset in terms of depth and breadth over two rounds. We have also scored the difficulty of tasks for the evolved queries to enhance the diversity of queries and the complexity of tasks. This is used for the **later stage** of SFT instruction fine-tuning of the model.
 
 ## Contribution
 
@@ -184,7 +186,7 @@ Instructions on how to contribute to the project, including reporting bugs, sugg
 ```plaintext
 @misc{joydataforge2024,
   title={JoyDataForge: An Open Source Toolkit for Large-Scale Data Synthesis},
-  author={weili36190429},
+  author={weili36190429 and lb2158},
   year={2024},
   howpublished={\url{https://github.com/jdh-algo/JoyDataForge.git}},
   note={Version 1.0}
