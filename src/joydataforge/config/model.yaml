@@ -1,0 +1,18 @@
+app:
+  base:
+    NAME: "gpt-4o"
+    URL: "xxx"
+    URL_OUTSIDE: "xxx"
+    API_KEY: "xxx"
+  kami:
+    NAME: "gpt-4o"
+    URL: "https://api.moonshot.cn/v1"
+    API_KEY: "xxx"
+  perplexity:
+    NAME: "xxx"
+    URL: "https://api.perplexity.ai/chat/completions"
+    API_KEY: "xxx"
+  embedding_model:
+    NAME: "bge-base-model"
+    URL: "xxx"
+    API_KEY: "xxx"

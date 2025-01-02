@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "joydataforge"
+version = "0.1.0"
+description = ""
+authors = ["libo259 <libo51@jd.com>"]
+readme = "README.md"
+packages = [{include = "joydataforge", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.9"
+langchain-openai = "^0.2.10"
+langchain-community = "^0.3.8"
+langgraph = "^0.2.53"
+loguru = "^0.7.2"
+dynaconf = "^3.2.6"
+pandas = "^2.2.3"
+langchain-core = "^0.3.21"
+openpyxl = "^3.1.5"
+torch = "^2.5.1"
+vllm = "^0.6.4.post1"
+datasketch = "^1.6.5"
+nltk = "^3.9.1"
+scikit-learn = "^1.6.0"
+vendi-score = "^0.0.3"
+scikit-bio = "^0.6.2"
+fastchat = "^0.1.0"
+aiofiles = "^24.1.0"
+accelerate = "^1.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

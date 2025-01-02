@@ -1,0 +1,28 @@
+{
+ "k_center": {
+  "num": 10,
+  "scores": {
+   "vendi_score": 3.902121069934382,
+   "entity_shannon_entropy": 3.8477551505656566,
+   "label_shannon_entropy": 1.5054813768524489,
+   "entity_simpson_index": 0.961582384355931,
+   "label_simpson_index": 0.74,
+   "unique_entity_count": 125,
+   "unique_label_count": 6,
+   "total_data_count": 10
+  }
+ },
+ "random": {
+  "num": 10,
+  "scores": {
+   "vendi_score": 5.7984950145107295,
+   "entity_shannon_entropy": 3.9637525217511307,
+   "label_shannon_entropy": 1.6185352518566076,
+   "entity_simpson_index": 0.9625838611929798,
+   "label_simpson_index": 0.7596253902185224,
+   "unique_entity_count": 176,
+   "unique_label_count": 7,
+   "total_data_count": 10
+  }
+ }
+}
