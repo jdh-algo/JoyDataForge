@@ -191,17 +191,13 @@ python examples/model_votes/model_votes_and_pipline.py
 
 ## 项目贡献者
 
- ``<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->`
+ ``<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
-
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
 <!-- prettier-ignore-start -->
-
 <!-- markdownlint-disable -->
-
 <table>
   <tbody>
     <tr>
@@ -211,7 +207,7 @@ python examples/model_votes/model_votes_and_pipline.py
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/helizhi1"><img src="https://avatars.githubusercontent.com/helizhi1?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#tool-helizhi1" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ysleep"><img src="https://avatars.githubusercontent.com/ysleep?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#ideas-ysleep" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Luca202412"><img src="https://avatars.githubusercontent.com/Luca202412?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#ideas-Luca202412" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/beiyouwuyanzu"><img src="https://avatars.githubusercontent.com/beiyouwuyanzu?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#example-beiyouwuyanzu" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/allwellll"><img src="https://avatars.githubusercontent.com/allwellll?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#example-allwellll" title="Examples">💡</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wanyueli"><img src="https://avatars.githubusercontent.com/wanyueli?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#example-wanyueli" title="Examples">💡</a></td>
@@ -234,7 +230,6 @@ python examples/model_votes/model_votes_and_pipline.py
 </table>
 
 <!-- markdownlint-restore -->
-
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
