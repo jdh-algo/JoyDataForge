@@ -1,0 +1,134 @@
+{
+  "projectName": "JoyDataForge",
+  "projectOwner": "jdh-algo",
+  "repoType": "github",
+  "repoHost": "https://github.com/jdh-algo/JoyDataForge",
+  "files": [
+    "README.md",
+    "README-EN.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "weili36190429",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/weili36190429",
+      "profile": "https://github.com/weili36190429",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lb2158",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/lb2158",
+      "profile": "https://github.com/lb2158",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "ray075hl",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/ray075hl",
+      "profile": "https://github.com/ray075hl",
+      "contributions": [
+        "tool"
+      ]
+    },
+    {
+      "login": "helizhi1",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/helizhi1",
+      "profile": "https://github.com/helizhi1",
+      "contributions": [
+        "tool"
+      ]
+    },
+    {
+      "login": "ysleep",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/ysleep",
+      "profile": "https://github.com/ysleep",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "Luca202412",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/Luca202412",
+      "profile": "https://github.com/Luca202412",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "beiyouwuyanzu",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/beiyouwuyanzu",
+      "profile": "https://github.com/beiyouwuyanzu",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "Miss_wanyueli",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/Miss_wanyueli",
+      "profile": "https://github.com/Miss_wanyueli",
+      "contributions": [
+        "example"
+      ]
+    },
+    {
+      "login": "stalwart0465",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/stalwart0465",
+      "profile": "https://github.com/stalwart0465",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "minyu.gao@outlook.com",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/minyu.gao@outlook.com",
+      "profile": "https://github.com/minyu.gao@outlook.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "haishenmuc@163.com",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/haishenmuc@163.com",
+      "profile": "https://github.com/haishenmuc@163.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JackZhang199",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/JackZhang199",
+      "profile": "https://github.com/JackZhang199",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kkbossa",
+      "name": "User's Name",
+      "avatar_url": "https://avatars.githubusercontent.com/kkbossa",
+      "profile": "https://github.com/kkbossa",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}

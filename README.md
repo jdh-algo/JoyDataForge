@@ -189,6 +189,54 @@ python examples/model_votes/model_votes_and_pipline.py
 }
 ```
 
+## 项目贡献者
+
+ `<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/weili36190429"><img src="https://avatars.githubusercontent.com/weili36190429?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="https://github.com/jdh-algo/JoyDataForge/jdh-algo/JoyDataForge/commits?author=weili36190429" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lb2158"><img src="https://avatars.githubusercontent.com/lb2158?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="https://github.com/jdh-algo/JoyDataForge/jdh-algo/JoyDataForge/pulls?q=is%3Apr+reviewed-by%3Alb2158" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ray075hl"><img src="https://avatars.githubusercontent.com/ray075hl?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#tool-ray075hl" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/helizhi1"><img src="https://avatars.githubusercontent.com/helizhi1?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#tool-helizhi1" title="Tools">🔧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ysleep"><img src="https://avatars.githubusercontent.com/ysleep?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#ideas-ysleep" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Luca202412"><img src="https://avatars.githubusercontent.com/Luca202412?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#ideas-Luca202412" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/beiyouwuyanzu"><img src="https://avatars.githubusercontent.com/beiyouwuyanzu?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#example-beiyouwuyanzu" title="Examples">💡</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Miss_wanyueli"><img src="https://avatars.githubusercontent.com/Miss_wanyueli?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#example-Miss_wanyueli" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/stalwart0465"><img src="https://avatars.githubusercontent.com/stalwart0465?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#content-stalwart0465" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/minyu.gao@outlook.com"><img src="https://avatars.githubusercontent.com/minyu.gao@outlook.com?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#content-minyu.gao@outlook.com" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/haishenmuc@163.com"><img src="https://avatars.githubusercontent.com/haishenmuc@163.com?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#content-haishenmuc@163.com" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JackZhang199"><img src="https://avatars.githubusercontent.com/JackZhang199?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#content-JackZhang199" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kkbossa"><img src="https://avatars.githubusercontent.com/kkbossa?s=100" width="100px;" alt="User's Name"/><br /><sub><b>User's Name</b></sub></a><br /><a href="#content-kkbossa" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
 ## 联系方式
 
 - 邮箱: liwei1559@jd.com
