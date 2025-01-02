@@ -1,4 +1,4 @@
-# [中文](https://github.com/jdh-algo/JoyDataForge/blob/main/README.md "readme-zh")|English
+## [中文](https://github.com/jdh-algo/JoyDataForge/blob/main/README.md "readme-zh")|English
 
 # JOYDATAFORGE: Data Forging Factory
 
@@ -195,15 +195,18 @@ Instructions on how to contribute to the project, including reporting bugs, sugg
 
 ## Contributors
 
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -236,11 +239,10 @@ Instructions on how to contribute to the project, including reporting bugs, sugg
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-
 
 ## Contact Information
 

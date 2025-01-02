@@ -1,4 +1,4 @@
-# 中文|[English](https://github.com/jdh-algo/JoyDataForge/blob/main/README-EN.md "readme-en")
+## 中文|[English](https://github.com/jdh-algo/JoyDataForge/blob/main/README-EN.md "readme-en")
 
 # HJOYDATAFORGE:数据锻造工厂
 
@@ -191,14 +191,17 @@ python examples/model_votes/model_votes_and_pipline.py
 
 ## 项目贡献者
 
- `<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+ ``<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->`
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -231,11 +234,10 @@ python examples/model_votes/model_votes_and_pipline.py
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-
 
 ## 联系方式
 
