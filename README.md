@@ -1,6 +1,6 @@
 ## 中文|[English](https://github.com/jdh-algo/JoyDataForge/blob/main/README-EN.md "readme-en")
 
-# HJOYDATAFORGE:数据锻造工厂
+# JOYDATAFORGE:数据锻造工厂
 
 本项目旨在提供一个用于大模型数据合成的开源工具箱。通过该工具箱提供的多种数据合成方法，用户可以高效地构建适用于不同业务需求的数据管道流程，从而显著提高数据生产效率。在数据构建完成后，工具箱还支持从语义和实体等多个层面对数据的多样性进行全面评估。
 
@@ -163,9 +163,9 @@ python examples/model_votes/model_votes_and_pipline.py
 
 我们利用[JoyDataForge](https://github.com/jdh-algo/JoyDataForge "数据合成 锻造厂")工具中的[Magpie](https://arxiv.org/abs/2406.08464 "喜鹊")方法和[Wizard](https://arxiv.org/abs/2304.12244 "WizardLM")方法合成了2个数据集，并进行了开源， 供大家参考和使用。
 
-数据集1：[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo-huggingface/joy_common_sft_datasets "magpie")， 数据集是利用magpie 方法对[Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen)模型进行蒸馏， 可以用于模型**初期**的SFT的指令微调阶段。
+数据集1：[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo/joy_common_sft_datasets "magpie")， 数据集是利用magpie 方法对[Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen)模型进行蒸馏， 可以用于模型**初期**的SFT的指令微调阶段。
 
-数据集2：[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo-huggingface/query_diversity_evolution "WizardLM") ， 本数据集是利用wizard方法对给定数据集中的query 内容进行深度和宽度的演化2轮得到结果， 我们并对演化后的query进行了任务难度打分， 用于提高query的多样性及任务的复杂度，用于模型的**后阶段**的SFT指令微调阶段。
+数据集2：[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo/query_diversity_evolution "WizardLM") ， 本数据集是利用wizard方法对给定数据集中的query 内容进行深度和宽度的演化2轮得到结果， 我们并对演化后的query进行了任务难度打分， 用于提高query的多样性及任务的复杂度，用于模型的**后阶段**的SFT指令微调阶段。
 
 ## 贡献
 
@@ -191,13 +191,17 @@ python examples/model_votes/model_votes_and_pipline.py
 
 ## 项目贡献者
 
- ``<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+ ```<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->`
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -230,6 +234,7 @@ python examples/model_votes/model_votes_and_pipline.py
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->

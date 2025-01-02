@@ -167,9 +167,9 @@ For more examples, refer to the contents in the [examples/ ](https://github.com/
 
 We synthesis two datasets by using the [Magpie](https://arxiv.org/abs/2406.08464 "喜鹊") method and [Wizard](https://arxiv.org/abs/2304.12244 "WizardLM") method of [JoyDataForge](https://github.com/jdh-algo/JoyDataForge "数据合成 锻造厂") ，And it has been open-sourced for everyone's reference and use.
 
-Dataset 1:[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo-huggingface/joy_common_sft_datasets "magpie"), this dataset is distilled using the magpie method on the [Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen) model. It can be used for the **initial** SFT instruction fine-tuning phase of the model.
+Dataset 1:[joy_common_sft_datasets](https://huggingface.co/datasets/jdh-algo/joy_common_sft_datasets "magpie"), this dataset is distilled using the magpie method on the [Qwen2-7b-Intruction](https://github.com/QwenLM/Qwen) model. It can be used for the **initial** SFT instruction fine-tuning phase of the model.
 
-Dataset 2:[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo-huggingface/query_diversity_evolution "WizardLM"), this dataset uses the wizard method to evolve the query content in the given dataset in terms of depth and breadth over two rounds. We have also scored the difficulty of tasks for the evolved queries to enhance the diversity of queries and the complexity of tasks. This is used for the **later stage** of SFT instruction fine-tuning of the model.
+Dataset 2:[query_diversity_evolution](https://huggingface.co/datasets/jdh-algo/query_diversity_evolution "WizardLM"), this dataset uses the wizard method to evolve the query content in the given dataset in terms of depth and breadth over two rounds. We have also scored the difficulty of tasks for the evolved queries to enhance the diversity of queries and the complexity of tasks. This is used for the **later stage** of SFT instruction fine-tuning of the model.
 
 ## Contribution
 
@@ -196,12 +196,17 @@ Instructions on how to contribute to the project, including reporting bugs, sugg
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+
 <!-- prettier-ignore-start -->
+
 <!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -234,6 +239,7 @@ Instructions on how to contribute to the project, including reporting bugs, sugg
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
